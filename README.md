@@ -22,8 +22,8 @@ the `src/main/java/org/example` directory, you will see that the class is
 empty, but contains several comments that describe the fields and methods that
 need to be implemented.
 
-Using these comments as a guide, implement the `Teacher` class with the
-following fields and methods:
+Using these comments as a guide, im
+
 
 ### Fields
 
